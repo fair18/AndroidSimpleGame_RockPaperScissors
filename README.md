@@ -18,8 +18,9 @@ ContactChooserActivity:
    
 GameActivity:
 
-   1. This activity will have two text fields and two buttons
-     1.1. Textfield 1 – will display the choice of the application. Example: “The computer has chosen rock”. Use a randomly generated number from 1 – 3 to randomly select the choice of the user. Display this text when the user selects the Go button.
-     1.2. Textfield 2 – will display the result (if you win or lose).
-     1.3. Button 1 – Go button. Generate a randomly generated number and display the computers choice in textfield 1.
-     1.4. Button 2 – Load the MainScreen Activity 
+This activity will have two text fields and two buttons
+   
+   1. Textfield 1 – will display the choice of the application. Example: “The computer has chosen rock”. Use a randomly generated number from 1 – 3 to randomly select the choice of the user. Display this text when the user selects the Go button.
+   2. Textfield 2 – will display the result (if you win or lose).
+   3. Button 1 – Go button. Generate a randomly generated number and display the computers choice in textfield 1.
+   4. Button 2 – Load the MainScreen Activity 
