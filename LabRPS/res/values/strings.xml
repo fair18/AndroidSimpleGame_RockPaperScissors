@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RockPaperScissors</string>
+    <string name="title_activity_selector">SelectorActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="btn_beginGame">Begin game</string>
+    <string name="img_logo">Logo for game</string>
+    <string name="btn_startGame">Go</string>
+    <string name="btn_exit">Exit</string>
+    <string name="txt_choice_rock">The computer has chosen rock</string>
+    <string name="txt_choice_paper">The computer has chosen paper</string>
+    <string name="txt_choice_scissors">The computer has chosen scissors</string>
+	<string name="txt_result_win">Congratulations!!! You win the game!</string>
+	<string name="txt_result_lose">Soory, but you lose the game!</string> 
+	<string-array name="game">
+	    <item>rock</item>
+	    <item>paper</item>
+	    <item>scissors</item>
+	</string-array>   
+</resources>
