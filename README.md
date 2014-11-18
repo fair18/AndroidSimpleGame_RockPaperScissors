@@ -1,22 +1,22 @@
 AndroidSimpleGame_RockPaperScissors
 ===================================
 
-A simple Rock, Paper Scissors application where the user is against the computer
+<b><i>A simple Rock, Paper Scissors application where the user is against the computer</i></b>
 
  The application will contain 3 different activities
 
-MainScreen:
+<b>MainScreen:</b>
 
    1. Contain one button and one imageview 
    2. Button 1 “Begin Game” will load the SelectorActivity to the screen
 
-ContactChooserActivity:
+<b>ContactChooserActivity:</b>
 
    1. Will contain a list. The list will be populated with the choices “Rock”, “Paper”, “Scissors”
    2. When a list item is clicked, the GameActivity should be loaded
    3. The choice of the user will be passed to the next activity
    
-GameActivity:
+<b>GameActivity:</b>
 
 This activity will have two text fields and two buttons
    
